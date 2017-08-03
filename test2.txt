@@ -1,0 +1,5 @@
+# this is 2ed ex
+# learn # '注释'
+#encoding=utf-8
+print 'test'
+print '测试'
